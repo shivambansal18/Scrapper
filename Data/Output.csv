@@ -1,0 +1,13 @@
+URL_ID,URL,POSITIVE SCORE,NEGATIVE SCORE,POLARITY SCORE,SUBJECTIVITY SCORE,AVG SENTENCE LENGTH,PERCENTAGE OF COMPLEX WORDS,FOG INDEX,AVG NUMBER OF WORDS PER SENTENCE,COMPLEX WORD COUNT,WORD COUNT,PERSONAL PRONOUNS,AVG WORD LENGTH
+38,https://insights.blackcoffer.com/what-if-the-creation-is-taking-over-the-creator/,45,28,0.23287670913867523,0.10846953921475551,16.939,22,15.575600000000001,16.939,301,673,6,4.873
+39,https://insights.blackcoffer.com/what-jobs-will-robots-take-from-humans-in-the-future/,57,29,0.3255813915630071,0.0946094608420138,19.7738,31,20.309520000000003,19.7738,516,909,3,5.476
+40,https://insights.blackcoffer.com/will-machine-replace-the-human-in-the-future-of-work/,39,14,0.47169810430758297,0.07260273962657159,16.9783,22,15.591320000000003,16.9783,346,730,17,4.876
+41,https://insights.blackcoffer.com/will-ai-replace-us-or-work-with-us/,41,18,0.38983050186727963,0.06712172916140872,19.4884,24,17.39536,19.4884,398,879,16,5.116
+42,https://insights.blackcoffer.com/man-and-machines-together-machines-are-more-diligent-than-humans-blackcoffe/,31,16,0.31914892937981004,0.07544141239897044,21.4035,23,17.761400000000002,21.4035,280,623,21,5.018
+37,https://insights.blackcoffer.com/ai-in-healthcare-to-improve-patient-outcomes/,55,26,0.35802468693796685,0.0787937742424185,22.3718,34,22.548720000000003,22.3718,588,1028,1,5.754
+38,https://insights.blackcoffer.com/what-if-the-creation-is-taking-over-the-creator/,45,28,0.23287670913867523,0.10846953921475551,16.939,22,15.575600000000001,16.939,301,673,6,4.873
+39,https://insights.blackcoffer.com/what-jobs-will-robots-take-from-humans-in-the-future/,57,29,0.3255813915630071,0.0946094608420138,19.7738,31,20.309520000000003,19.7738,516,909,3,5.476
+40,https://insights.blackcoffer.com/will-machine-replace-the-human-in-the-future-of-work/,39,14,0.47169810430758297,0.07260273962657159,16.9783,22,15.591320000000003,16.9783,346,730,17,4.876
+41,https://insights.blackcoffer.com/will-ai-replace-us-or-work-with-us/,41,18,0.38983050186727963,0.06712172916140872,19.4884,24,17.39536,19.4884,398,879,16,5.116
+42,https://insights.blackcoffer.com/man-and-machines-together-machines-are-more-diligent-than-humans-blackcoffe/,31,16,0.31914892937981004,0.07544141239897044,21.4035,23,17.761400000000002,21.4035,280,623,21,5.018
+43,https://insights.blackcoffer.com/in-future-or-in-upcoming-years-humans-and-machines-are-going-to-work-together-in-every-field-of-work/,18,9,0.3333333209876548,0.07049608336685095,15.3617,21,14.54468,15.3617,153,383,7,5.079
